@@ -12,7 +12,7 @@
 
 <p align="center">
   🔗 <a href="https://github.com/Aiello-M/Challenge-TelecomX" target="_blank">Ver repositorio</a> 
-  <a href="https://colab.research.google.com/github/Aiello-M/Challenge-TelecomX/blob/main/Challenge-TelecomX.ipynb" target="_blank">Abrir Notebook en Colab</a>
+  <a href="https://colab.research.google.com/github/Aiello-M/Challenge-TelecomX/blob/main/Challenge_TelecomX.ipynb" target="_blank">Abrir Notebook en Colab</a>
 </p>
 
 ---
@@ -258,7 +258,7 @@ Con base en los datos analizados, se proponen las siguientes iniciativas estrat�
 ## 🚀 Cómo Ejecutar el Proyecto
 
 ### Opción 1: Google Colab (Recomendado)
-1. Abre el [notebook en Colab](https://github.com/Aiello-M/Challenge-TelecomX.git)
+1. Abre el [notebook en Colab](https://colab.research.google.com/github/Aiello-M/Challenge-TelecomX/blob/main/Challenge_TelecomX.ipynb)
 2. Click en **"Copiar en Drive"**
 3. Ejecuta todas las celdas: `Runtime` → `Run all`
 

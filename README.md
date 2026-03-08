@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://github.com/TU_USUARIO/Challenge-TelecomX" target="_blank">Ver repositorio</a> | 
-  <a href="LINK_A_TU_COLAB" target="_blank">Abrir Notebook en Colab</a>
+  🔗 <a href="https://github.com/Aiello-M/Challenge-TelecomX" target="_blank">Ver repositorio</a> 
+  <a href="https://colab.research.google.com/github/Aiello-M/Challenge-TelecomX/blob/main/Challenge-TelecomX.ipynb" target="_blank">Abrir Notebook en Colab</a>
 </p>
 
 ---
@@ -258,14 +258,14 @@ Con base en los datos analizados, se proponen las siguientes iniciativas estrat�
 ## 🚀 Cómo Ejecutar el Proyecto
 
 ### Opción 1: Google Colab (Recomendado)
-1. Abre el [notebook en Colab](LINK_A_TU_COLAB)
+1. Abre el [notebook en Colab](https://github.com/Aiello-M/Challenge-TelecomX.git)
 2. Click en **"Copiar en Drive"**
 3. Ejecuta todas las celdas: `Runtime` → `Run all`
 
 ### Opción 2: Jupyter Notebook Local
 ```bash
 # Clonar repositorio
-git clone https://github.com/TU_USUARIO/Challenge-TelecomX.git
+git clone https://github.com/Aiello-M/Challenge-TelecomX.git
 
 # Navegar al directorio
 cd Challenge-TelecomX
